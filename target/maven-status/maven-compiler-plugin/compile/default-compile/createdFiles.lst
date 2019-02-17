@@ -1,0 +1,11 @@
+com\gl\annotion\MyRequestParam.class
+com\gl\service\TestServiceImpl.class
+com\gl\control\Test1Controller.class
+com\gl\service\TestService.class
+com\gl\servlet\MyDispatcherServlet.class
+com\gl\annotion\MyService.class
+com\gl\annotion\MyAutoGl.class
+com\gl\control\Test2Controller.class
+com\gl\model\MyIndexModel.class
+com\gl\annotion\MyRequestMapping.class
+com\gl\annotion\MyControl.class
